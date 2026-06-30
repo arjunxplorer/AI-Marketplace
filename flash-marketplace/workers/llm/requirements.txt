@@ -1,0 +1,6 @@
+runpod>=1.6.2
+transformers>=4.36.2
+accelerate>=0.25.0
+torch>=2.0.0
+sentencepiece>=0.1.99
+protobuf>=4.25.0
