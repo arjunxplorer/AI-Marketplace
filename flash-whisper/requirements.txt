@@ -1,0 +1,9 @@
+runpod-flash
+torch>=2.0.0
+transformers>=4.36.0
+accelerate>=0.25.0
+openai-whisper
+librosa
+soundfile
+numpy
+huggingface_hub
