@@ -57,7 +57,7 @@ export default function TTSPage() {
           <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" strokeWidth={1.5} stroke="currentColor" className="w-5 h-5">
             <path strokeLinecap="round" strokeLinejoin="round" d="M10.5 19.5L3 12m0 0l7.5-7.5M3 12h18" />
           </svg>
-          <span className="text-lg tracking-tight font-medium">AI Playground</span>
+          <span className="text-lg tracking-tight font-medium">AI Marketplace</span>
         </Link>
         <span className="text-sm text-[#738273]">Text to Speech</span>
       </header>
@@ -94,7 +94,7 @@ export default function TTSPage() {
           <div className="flex flex-wrap gap-2 justify-center mb-6">
             {[
               "Hello, how are you?",
-              "Welcome to AI Playground",
+              "Welcome to AI Marketplace",
               "The weather is beautiful today",
               "Let me tell you a story",
             ].map((suggestion) => (

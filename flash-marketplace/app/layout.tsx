@@ -8,9 +8,9 @@ const inter = Inter({
 });
 
 export const metadata: Metadata = {
-  title: "AI Playground — Powered by RunPod",
+  title: "AI Marketplace — Powered by RunPod",
   description:
-    "Multi-model AI Playground demonstrating RunPod serverless capabilities. Try image generation, speech-to-text, OCR, embeddings, and more.",
+    "Multi-model AI Marketplace demonstrating RunPod serverless capabilities. Try image generation, speech-to-text, OCR, embeddings, and more.",
 };
 
 export default function RootLayout({

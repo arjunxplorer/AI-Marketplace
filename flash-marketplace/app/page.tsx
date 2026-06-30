@@ -162,7 +162,7 @@ export default function Home() {
         {/* Logo */}
         <div className="flex items-center gap-3">
           <span className="text-[21px] sm:text-[26px] tracking-tight text-black font-medium select-none">
-            AI Playground
+            AI Marketplace
           </span>
           <span className="text-[25px] sm:text-[30px] text-black select-none tracking-[-0.02em] font-medium leading-none mb-1">
             ✦
